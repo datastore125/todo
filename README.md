@@ -1,2 +1,2 @@
 # toDo
-c++ todo linst
+c++ todo list
